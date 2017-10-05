@@ -1,6 +1,4 @@
 # Contributors add your name here :
 
-- Name:  [Aswin VB](https://github.com/aswinzz)
-
-  
-  
+- Aswin VB (https://github.com/aswinzz)
+- Paulo H. Scherer (https://github.com/phscherer)
