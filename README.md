@@ -120,6 +120,15 @@ run `sudo apt-get install aria2` in terminal
 ----------
 url -u YourUsername:YourPassword -d status="Your status message" http://twitter.com/statuses/update.xml 
 
+### 14) screenfetch - Generate OS and System Info 
+-------------
+#### installation
+* Debian based distribution: `sudo apt-get install screenfetch`
+* Fedora or CentOS: `yum install screenfetch`
+
+#### Running
+* `screenfetch`
+
 
 
 
