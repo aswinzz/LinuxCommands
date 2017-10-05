@@ -1,3 +1,6 @@
 # Contributors add your name here :
 
-- Aswin VB (https://github.com/aswinzz)
+- Name: Aswin VB
+  Username:  [aswinzz](https://github.com/aswinzz)
+  
+  
