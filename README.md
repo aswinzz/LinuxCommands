@@ -137,13 +137,8 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Running
 * `screenfetch`
 
-
-
-
-
-
-
- 
-
-
+### 16) Star Wars ASCII - Watch ASCII version of Star Wars trilogy 
+----------
+#### Running
+* telnet towel.blinkenlights.nl
 
