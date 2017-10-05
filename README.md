@@ -7,7 +7,7 @@ Lets Have Some Fun!
 ### 1) thefuck-command
 -------------
 
-#### installation
+#### Installation
 
 
 run `pip install thefuck` in terminal
@@ -20,7 +20,7 @@ run `pip install thefuck` in terminal
 ### 2) aria2 - Terminal Based Downloader
 -------------
 
-#### installation
+#### Installation
 
 
 run `sudo apt-get install aria2` in terminal
@@ -33,7 +33,7 @@ run `sudo apt-get install aria2` in terminal
 ### 3) z- Directory Jumper
 -------------
 
-#### installation
+#### Installation
 * Go to `https://github.com/rupa/z` and download the repo and extract it somewhere
 * Copy the `z.sh` file to home directory
 *   `echo ". ~/z.sh" >> ~/.bashrc` add this line in .bashrc file located in the home directory
@@ -46,7 +46,7 @@ run `sudo apt-get install aria2` in terminal
 ### 4) elinks-Terminal Browser
 -------------
 
-#### installation
+#### Installation
 * `sudo apt-get install elinks`
 
 #### Running
@@ -57,7 +57,7 @@ run `sudo apt-get install aria2` in terminal
 ### 5) Cowsay and Xcowsay
 -------------
 
-#### installation
+#### Installation
 * `sudo apt-get install cowsay`
 *  `sudo apt-get install xcowsay`
 
@@ -69,7 +69,7 @@ run `sudo apt-get install aria2` in terminal
 ### 6) sl
 -------------
 
-#### installation
+#### Installation
 * `sudo apt-get install sl`
 
 #### Running
@@ -79,7 +79,7 @@ run `sudo apt-get install aria2` in terminal
 ### 7) fortune
 -------------
 
-#### installation
+#### Installation
 * `sudo apt-get install fortune`
 
 #### Running
@@ -97,7 +97,7 @@ run `sudo apt-get install aria2` in terminal
 
 ### 10) Pi
 -------------
-#### installation
+#### Installation
 * `sudo apt-get install pi`
 
 #### Running
@@ -110,16 +110,23 @@ run `sudo apt-get install aria2` in terminal
 
 ### 12) espeak
 -------------
-#### installation
+#### Installation
 * `sudo apt-get install espeak`
 
 #### Running
-*  `espeak "Hello We Are From GeekHaven"
+*  `espeak "Hello We Are From GeekHaven"`
 
 ### 13) Twitter Status Update
 ----------
 url -u YourUsername:YourPassword -d status="Your status message" http://twitter.com/statuses/update.xml 
 
+### 14) asciiviewer
+----------
+#### Installation
+* `sudo apt-get install aview`
+
+#### Running
+* `asciiview some_image.png -driver curses`
 
 
 
