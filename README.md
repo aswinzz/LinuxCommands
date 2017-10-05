@@ -128,6 +128,15 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Running
 * `asciiview some_image.png -driver curses`
 
+### 15) screenfetch - Generate OS and System Info 
+----------
+#### installation
+* Debian based distribution: `sudo apt-get install screenfetch`
+* Fedora or CentOS: `yum install screenfetch`
+
+#### Running
+* `screenfetch`
+
 
 
 
