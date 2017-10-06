@@ -3,6 +3,7 @@
 - Star This Repo
 - Fork This Repo To Your Account
 - Add Yourself To The CONTRIBUTING.md file
-- Create A PullRequest (Make sure you refer the issue number along with the PullRequest)
+- Create A PullRequest
+    - Make sure to include the issue number and a link to a gh page for your contribution as shown in PULL_REQUEST_TEMPLATE.md
 - Solve issues
 - Enjoy Contributing :blush:
