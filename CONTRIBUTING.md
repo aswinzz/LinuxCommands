@@ -4,4 +4,5 @@
 - Paulo H. Scherer (https://github.com/phscherer)
 - Cam Hardy (https://github.com/CamHardy)
 - Jeremy L. Morris (https://github.com/morrislaw)
+- Ryan Ericksen (https://github.com/rsericksen)
 
