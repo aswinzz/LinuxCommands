@@ -143,12 +143,10 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Running
 * `youtube-dl https:"youtube video link"`
 
-
-
-
-
-
- 
+### 17) Star Wars ASCII - Watch ASCII version of Star Wars trilogy 
+----------
+#### Running
+* telnet towel.blinkenlights.nl
 
 
 
