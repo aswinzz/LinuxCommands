@@ -138,6 +138,13 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 * `screenfetch`
 
 
+### 16) Star Wars - Watch an ASCII Version of Star Wars
+----------
+#### Usage
+* 'telnet towel.blinkenlights.nl'
+
+#### Etc.
+* Streams the content which is broadcasted via the blinkenlights.nl domain
 
 
 
