@@ -137,20 +137,28 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Running
 * `screenfetch`
 
+#### 16) youtube-dl
+* `pip install --user youtube-dl`
 
-### 16) Star Wars - Watch an ASCII Version of Star Wars
+### 17) Star Wars - Watch an ASCII Version of Star Wars
 ----------
 #### Usage
 * `telnet towel.blinkenlights.nl`
 
 #### Etc.
 * Streams the content which is broadcasted via the blinkenlights.nl domain
+=======
+#### Running
+* `youtube-dl https:"youtube video link"`
+
+### 18) Star Wars ASCII - Watch ASCII version of Star Wars trilogy 
+----------
+#### Running
+* telnet towel.blinkenlights.nl
 
 
 
 
-
- 
 
 
 
