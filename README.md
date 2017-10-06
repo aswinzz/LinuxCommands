@@ -137,6 +137,11 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Running
 * `screenfetch`
 
+#### 16) youtube-dl
+* `pip install --user youtube-dl`
+
+#### Running
+* `youtube-dl https:"youtube video link"`
 
 
 
