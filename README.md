@@ -137,7 +137,7 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Running
 * `screenfetch`
 
-#### 16) youtube-dl
+### 16) youtube-dl
 ----------
 * `pip install --user youtube-dl`
 #### Running
@@ -155,10 +155,10 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 ----------
 #### Usage
 * ```
-rig
-Bettye Dunlap
-799 Second St
-Denver, CO  80202
-(303) xxx-xxxx
-```
+        rig
+        Bettye Dunlap
+        799 Second St
+        Denver, CO  80202
+        (303) xxx-xxxx
+  ```
 
