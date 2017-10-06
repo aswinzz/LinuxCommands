@@ -4,4 +4,4 @@
 - Paulo H. Scherer (https://github.com/phscherer)
 - Cam Hardy (https://github.com/CamHardy)
 - Jeremy L. Morris (https://github.com/morrislaw)
-
+- Jonathan Lozada De La Matta (https://github.com/jlozadad)
