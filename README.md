@@ -147,10 +147,14 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 * Streams the content which is broadcasted via the blinkenlights.nl domain
 
 
+### 17) rig - generate fake idenities
+----------
+#### Usage
+* ```rig
 
-
-
- 
-
-
+Bettye Dunlap
+799 Second St
+Denver, CO  80202
+(303) xxx-xxxx
+```
 
