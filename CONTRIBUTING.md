@@ -6,4 +6,6 @@
 - Jeremy L. Morris (https://github.com/morrislaw)
 - Mustafa Piynirci (https://github.com/mustafapiynirci)
 - Eric Dunsworth (https://github.com/ericduns)
+- Felipe Martins (https://github.com/felipewmartins)
+
 
