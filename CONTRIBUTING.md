@@ -5,3 +5,5 @@
 - Cam Hardy (https://github.com/CamHardy)
 - Jeremy L. Morris (https://github.com/morrislaw)
 - Mustafa Piynirci (https://github.com/mustafapiynirci)
+- Eric Dunsworth (https://github.com/ericduns)
+
