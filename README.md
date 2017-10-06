@@ -137,8 +137,11 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Running
 * `screenfetch`
 
-#### 16) youtube-dl
+### 16) youtube-dl
+----------
 * `pip install --user youtube-dl`
+#### Running
+* `youtube-dl https:"youtube video link"`
 
 ### 17) Star Wars - Watch an ASCII Version of Star Wars
 ----------
@@ -147,18 +150,15 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 
 #### Etc.
 * Streams the content which is broadcasted via the blinkenlights.nl domain
-=======
-#### Running
-* `youtube-dl https:"youtube video link"`
 
-### 18) Star Wars ASCII - Watch ASCII version of Star Wars trilogy 
+### 18) rig - generate fake idenities
 ----------
-#### Running
-* telnet towel.blinkenlights.nl
-
-
-
-
-
-
+#### Usage
+* ```
+        rig
+        Bettye Dunlap
+        799 Second St
+        Denver, CO  80202
+        (303) xxx-xxxx
+  ```
 
