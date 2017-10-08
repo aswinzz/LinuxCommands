@@ -160,5 +160,16 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
         799 Second St
         Denver, CO  80202
         (303) xxx-xxxx
+
+### 19) toilet - draw banners again
+---------
+#### Usage
+* 'toilet Welcome'
+
+### 20) Loop with yes
+---------
+#### Usage
+* 'yes start'
+
   ```
 

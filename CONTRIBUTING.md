@@ -9,4 +9,5 @@
 - Felipe Martins (https://github.com/felipewmartins)
 - Jonathan Lozada De La Matta (https://github.com/jlozadad)
 - Ryan Ericksen (https://github.com/rsericksen)
+- Bharat Rawat (https://github.com/Bharat786)
 
