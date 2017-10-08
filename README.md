@@ -172,16 +172,12 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Usage
 * 'yes start'
 
-  ```
-=======
-```
-
-### 20) Automatically update all the installed python packages 
+### 21) Automatically update all the installed python packages 
 -------------
 #### Running
 * `pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U`
 
-### 21) lynx-Terminal Browser
+### 22) lynx-Terminal Browser
 -------------
 
 #### Installation
