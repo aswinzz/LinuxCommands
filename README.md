@@ -167,3 +167,27 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Running
 * `pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U`
 
+### 19) lynx-Terminal Browser
+-------------
+
+#### Installation
+* `sudo apt-get install lynx`
+
+#### Running
+*  type `lynx` and browse!!
+
+
+
+### 20) axel - Terminal Based Downloader
+-------------
+
+#### Installation
+
+
+run `sudo apt-get install axel` in terminal
+
+#### Running
+*  open Terminal in the directory where you want to download the file
+*  type `axel "paste the link here"` in the terminal
+*  the file will be downloaded
+
