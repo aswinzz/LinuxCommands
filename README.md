@@ -154,13 +154,13 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 ### 18) rig - generate fake idenities
 ----------
 #### Usage
-* ```
+```
         rig
         Bettye Dunlap
         799 Second St
         Denver, CO  80202
         (303) xxx-xxxx
-  ```
+```
 
 ### 19) Automatically update all the installed python packages 
 -------------
