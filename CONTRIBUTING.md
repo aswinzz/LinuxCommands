@@ -9,7 +9,8 @@
 - Felipe Martins (https://github.com/felipewmartins)
 - Jonathan Lozada De La Matta (https://github.com/jlozadad)
 - Ryan Ericksen (https://github.com/rsericksen)
+- Bharat Rawat (https://github.com/Bharat786)
 - Arash Haghighat (https://github.com/irLinja)
-- Mamonu        (https://github.com/mamonu)
+- Mamonu (https://github.com/mamonu)
 
 

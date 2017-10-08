@@ -162,12 +162,26 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
         (303) xxx-xxxx
 ```
 
-### 19) Automatically update all the installed python packages 
+### 19) toilet - draw banners again
+---------
+#### Usage
+* 'toilet Welcome'
+
+### 20) Loop with yes
+---------
+#### Usage
+* 'yes start'
+
+  ```
+=======
+```
+
+### 20) Automatically update all the installed python packages 
 -------------
 #### Running
 * `pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U`
 
-### 19) lynx-Terminal Browser
+### 21) lynx-Terminal Browser
 -------------
 
 #### Installation
@@ -178,7 +192,7 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 
 
 
-### 20) axel - Terminal Based Downloader
+### 22) axel - Terminal Based Downloader
 -------------
 
 #### Installation
@@ -190,4 +204,5 @@ run `sudo apt-get install axel` in terminal
 *  open Terminal in the directory where you want to download the file
 *  type `axel "paste the link here"` in the terminal
 *  the file will be downloaded
+
 
