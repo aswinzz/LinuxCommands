@@ -162,3 +162,8 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
         (303) xxx-xxxx
   ```
 
+### 19) Automatically update all the installed python packages 
+-------------
+#### Running
+* `pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U`
+
