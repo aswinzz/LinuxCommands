@@ -201,4 +201,16 @@ run `sudo apt-get install axel` in terminal
 *  type `axel "paste the link here"` in the terminal
 *  the file will be downloaded
 
+### 4) sl - Steam Locomotive
+-------------
+
+#### Installation
+* `sudo apt-get install sl`
+
+#### Running
+*  type `sl` and watch the train!
+
+
+
+
 

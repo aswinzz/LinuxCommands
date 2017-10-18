@@ -12,5 +12,6 @@
 - Bharat Rawat (https://github.com/Bharat786)
 - Arash Haghighat (https://github.com/irLinja)
 - Mamonu (https://github.com/mamonu)
+- Alec M (https://github.com/alec500oo)
 
 
