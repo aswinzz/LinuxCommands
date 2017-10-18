@@ -201,7 +201,7 @@ run `sudo apt-get install axel` in terminal
 *  type `axel "paste the link here"` in the terminal
 *  the file will be downloaded
 
-### 4) sl - Steam Locomotive
+### 23) sl - Steam Locomotive
 -------------
 
 #### Installation
@@ -209,6 +209,14 @@ run `sudo apt-get install axel` in terminal
 
 #### Running
 *  type `sl` and watch the train!
+
+### 24) Give The Terminal An Attitude
+-------------
+#### Steps
+* `sudo visudo`
+* Add `Defaults insults` at the end of the file and save it
+* Whenever you type wrong password while using sudo you will get to know the magic!!
+![](./scr.png)
 
 
 
