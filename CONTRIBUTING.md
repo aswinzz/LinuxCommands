@@ -13,5 +13,5 @@
 - Arash Haghighat (https://github.com/irLinja)
 - Mamonu (https://github.com/mamonu)
 - Alec M (https://github.com/alec500oo)
-
+- Samuel Mafoko (https://github.com/omphemetse)
 
