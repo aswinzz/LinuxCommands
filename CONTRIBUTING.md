@@ -15,6 +15,4 @@
 - Alec M (https://github.com/alec500oo)
 - Jetsada Machom (https://github.com/zinuzoid)
 - Eric Yang (https://github.com/ericwxyang)
-
-
-
+- Samuel Mafoko (https://github.com/omphemetse)
