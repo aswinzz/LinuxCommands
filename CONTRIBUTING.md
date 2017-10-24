@@ -14,5 +14,7 @@
 - Mamonu (https://github.com/mamonu)
 - Alec M (https://github.com/alec500oo)
 - Jetsada Machom (https://github.com/zinuzoid)
+- Eric Yang (https://github.com/ericwxyang)
+
 
 
