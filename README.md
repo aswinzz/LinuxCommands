@@ -218,7 +218,13 @@ run `sudo apt-get install axel` in terminal
 * Whenever you type wrong password while using sudo you will get to know the magic!!
 ![](./scr.png)
 
+### 25) cmatrix - Matrix screen
+-------------
 
+#### Installation
+* `sudo apt-get install cmatrix`
 
+#### Running
+*  type `cmatrix` and watch the coolest screen ever!
 
 
