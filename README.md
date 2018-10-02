@@ -233,7 +233,7 @@ run `sudo apt-get install axel` in terminal
 *  `yes <word which you want to loop>`
 * Example Usage : `yes HelloWorld`
 
-### 28) rev
+### 27) rev
 -------------
 
 #### Running
@@ -241,10 +241,12 @@ run `sudo apt-get install axel` in terminal
 * type `rev`
 * type the word you want to reverse
 
-### 29) lolcat
+### 28) lolcat
+-------------
 
-`sudo apt-get install gem`
-`gem install lolcat`
+#### Installation
+* `sudo apt-get install gem`
+* `gem install lolcat`
 
 #### Running
 
