@@ -85,17 +85,12 @@ run `sudo apt-get install aria2` in terminal.
 #### Running
 *  `fortune`
 
-### 8) yes
--------------
-#### Running
-*  `yes hello`
-
-### 9) Banner
+### 8) Banner
 -------------
 #### Running
 *  `figlet hello`
 
-### 10) Pi
+### 9) Pi
 -------------
 #### Installation
 * `sudo apt-get install pi`
@@ -103,12 +98,12 @@ run `sudo apt-get install aria2` in terminal.
 #### Running
 *  `pi some integer`
 
-### 11) xeyes
+### 10) xeyes
 -------------
 #### Running
 * `xeyes`
 
-### 12) espeak
+### 11) espeak
 -------------
 #### Installation
 * `sudo apt-get install espeak`
@@ -116,11 +111,11 @@ run `sudo apt-get install aria2` in terminal.
 #### Running
 *  `espeak "Hello We Are From GeekHaven"`
 
-### 13) Twitter Status Update
+### 12) Twitter Status Update
 ----------
 url -u YourUsername:YourPassword -d status="Your status message" http://twitter.com/statuses/update.xml 
 
-### 14) asciiviewer
+### 13) asciiviewer
 ----------
 #### Installation
 * `sudo apt-get install aview`
@@ -128,7 +123,7 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Running
 * `asciiview some_image.png -driver curses`
 
-### 15) screenfetch - Generate OS and System Info 
+### 14) screenfetch - Generate OS and System Info 
 ----------
 #### installation
 * Debian based distribution: `sudo apt-get install screenfetch`
@@ -137,13 +132,13 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Running
 * `screenfetch`
 
-### 16) youtube-dl
+### 15) youtube-dl
 ----------
 * `pip install --user youtube-dl`
 #### Running
 * `youtube-dl https:"youtube video link"`
 
-### 17) Star Wars - Watch an ASCII Version of Star Wars
+### 16) Star Wars - Watch an ASCII Version of Star Wars
 ----------
 #### Usage
 * `telnet towel.blinkenlights.nl`
@@ -151,7 +146,7 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Etc.
 * Streams the content which is broadcasted via the blinkenlights.nl domain.
 
-### 18) rig - generate fake idenities
+### 17) rig - generate fake idenities
 ----------
 #### Usage
 ```
@@ -162,22 +157,17 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
         (303) xxx-xxxx
 ```
 
-### 19) toilet - draw banners again
+### 18) toilet - draw banners again
 ---------
 #### Usage
 * 'toilet Welcome'
 
-### 20) Loop with yes
----------
-#### Usage
-* 'yes start'
-
-### 21) Automatically update all the installed python packages 
+### 19) Automatically update all the installed python packages 
 -------------
 #### Running
 * `pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U`
 
-### 22) lynx-Terminal Browser
+### 20) lynx-Terminal Browser
 -------------
 
 #### Installation
@@ -188,7 +178,7 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 
 
 
-### 22) axel - Terminal Based Downloader
+### 21) axel - Terminal Based Downloader
 -------------
 
 #### Installation
@@ -201,7 +191,7 @@ run `sudo apt-get install axel` in terminal
 *  type `axel "paste the link here"` in the terminal.
 *  the file will be downloaded.
 
-### 23) sl - Steam Locomotive
+### 22) sl - Steam Locomotive
 -------------
 
 #### Installation
@@ -210,7 +200,7 @@ run `sudo apt-get install axel` in terminal
 #### Running
 *  type `sl` and watch the train!
 
-### 24) Give The Terminal An Attitude
+### 23) Give The Terminal An Attitude
 -------------
 #### Steps
 * `sudo visudo`
@@ -218,7 +208,7 @@ run `sudo apt-get install axel` in terminal
 * Whenever you type wrong password while using sudo you will get to know the magic!!
 ![](./scr.png)
 
-### 25) cmatrix - Matrix screen
+### 24) cmatrix - Matrix screen
 -------------
 
 #### Installation
@@ -227,14 +217,8 @@ run `sudo apt-get install axel` in terminal
 #### Running
 *  type `cmatrix` and watch the coolest screen ever!
 
-### 26) yes command
--------------
 
-
-#### Running
-*  type `yes` and see what happens!
-
-### 27) Cowsay
+### 25) Cowsay
 -------------
 
 #### Installation
@@ -242,6 +226,12 @@ run `sudo apt-get install axel` in terminal
 
 #### Running
 *  `cowsay hello`
+
+### 26) yes
+-------------
+#### Running
+*  `yes <word which you want to loop>`
+* Example Usage : `yes HelloWorld`
 
 ### 28) rev
 -------------
