@@ -233,3 +233,12 @@ run `sudo apt-get install axel` in terminal
 
 #### Running
 *  type `yes` and see what happens!
+
+### 27) Cowsay
+-------------
+
+#### Installation
+* `sudo apt-get install cowsay`
+
+#### Running
+*  `cowsay hello`
