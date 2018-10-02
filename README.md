@@ -226,3 +226,10 @@ run `sudo apt-get install axel` in terminal
 
 #### Running
 *  type `cmatrix` and watch the coolest screen ever!
+
+### 26) yes command
+-------------
+
+
+#### Running
+*  type `yes` and see what happens!
