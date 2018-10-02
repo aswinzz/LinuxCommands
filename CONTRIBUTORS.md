@@ -19,3 +19,4 @@
 - Mohan Cm (https://github.com/mohancm)
 - Armandas Budrius (https://github.com/Racistpanda)
 - Cristian Sanchez (https://github.com/cristianst)
+- Sebastian Franke (https://github.com/sfranke)

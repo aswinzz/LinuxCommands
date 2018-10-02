@@ -113,7 +113,7 @@ run `sudo apt-get install aria2` in terminal.
 
 ### 12) Twitter Status Update
 ----------
-url -u YourUsername:YourPassword -d status="Your status message" http://twitter.com/statuses/update.xml 
+url -u YourUsername:YourPassword -d status="Your status message" http://twitter.com/statuses/update.xml
 
 ### 13) asciiviewer
 ----------
@@ -123,7 +123,7 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Running
 * `asciiview some_image.png -driver curses`
 
-### 14) screenfetch - Generate OS and System Info 
+### 14) screenfetch - Generate OS and System Info
 ----------
 #### installation
 * Debian based distribution: `sudo apt-get install screenfetch`
@@ -162,7 +162,7 @@ url -u YourUsername:YourPassword -d status="Your status message" http://twitter.
 #### Usage
 * 'toilet Welcome'
 
-### 19) Automatically update all the installed python packages 
+### 19) Automatically update all the installed python packages
 -------------
 #### Running
 * `pip freeze --local | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U`
@@ -238,5 +238,15 @@ run `sudo apt-get install axel` in terminal
 
 #### Running
 
-* type `rev` 
-* type the word you want to reverse  
+* type `rev`
+* type the word you want to reverse
+
+### 29) lolcat
+
+`sudo apt-get install gem`
+`gem install lolcat`
+
+#### Running
+
+* echo "Hello world" | lolcat
+* fortune | cowsay | lolcat
