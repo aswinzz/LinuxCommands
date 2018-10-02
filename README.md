@@ -242,9 +242,11 @@ run `sudo apt-get install axel` in terminal
 * type the word you want to reverse
 
 ### 29) lolcat
+-------------
 
-`sudo apt-get install gem`
-`gem install lolcat`
+#### Installation
+* `sudo apt-get install gem`
+* `gem install lolcat`
 
 #### Running
 
