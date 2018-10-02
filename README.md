@@ -232,3 +232,11 @@ run `sudo apt-get install axel` in terminal
 #### Running
 *  `yes <word which you want to loop>`
 * Example Usage : `yes HelloWorld`
+
+### 28) rev
+-------------
+
+#### Running
+
+* type `rev` 
+* type the word you want to reverse  

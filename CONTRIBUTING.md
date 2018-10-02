@@ -17,3 +17,5 @@
 - Eric Yang (https://github.com/ericwxyang)
 - Samuel Mafoko (https://github.com/omphemetse)
 - Mohan Cm (https://github.com/mohancm)
+- Armandas Budrius (https://github.com/Racistpanda)
+- Cristian Sanchez (https://github.com/cristianst)
