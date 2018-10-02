@@ -16,3 +16,4 @@
 - Jetsada Machom (https://github.com/zinuzoid)
 - Eric Yang (https://github.com/ericwxyang)
 - Samuel Mafoko (https://github.com/omphemetse)
+- Cristian Sanchez (https://github.com/cristianst)
