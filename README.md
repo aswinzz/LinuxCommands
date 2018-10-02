@@ -242,3 +242,11 @@ run `sudo apt-get install axel` in terminal
 
 #### Running
 *  `cowsay hello`
+
+### 28) rev
+-------------
+
+#### Running
+
+* type `rev` 
+* type the word you want to reverse  
