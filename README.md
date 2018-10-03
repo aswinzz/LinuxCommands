@@ -252,3 +252,27 @@ run `sudo apt-get install axel` in terminal
 
 * echo "Hello world" | lolcat
 * fortune | cowsay | lolcat
+
+### 28) lolcat
+-------------
+
+#### Installation
+* `sudo apt-get install gem`
+* `gem install lolcat`
+
+#### Running
+
+* echo "Hello world" | lolcat
+* fortune | cowsay | lolcat
+
+### 29) tldr
+-------------
+
+#### Installation
+
+run `pip install thefuck` in terminal.
+
+#### Running
+
+* tldr man
+* Does a shorter version of man that is much simpler to look at.
