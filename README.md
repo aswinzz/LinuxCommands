@@ -276,3 +276,9 @@ run `pip install thefuck` in terminal.
 
 * tldr man
 * Does a shorter version of man that is much simpler to look at.
+
+### 30) apt-get moo
+-------------
+
+#### Running
+* In your terminal, run `apt-get moo`
