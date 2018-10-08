@@ -21,3 +21,5 @@
 - Cristian Sanchez (https://github.com/cristianst)
 - Sidhya Tikku (https://github.com/sidhyatikku)
 - Sebastian Franke (https://github.com/sfranke)
+- Aaron Hoffmann (https://github.com/ajh11g)
+
